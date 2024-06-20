@@ -6,6 +6,9 @@ export const gameInfos = {
   url: 'www.dsouza.dev.br'
 }
 
+/**
+ * @type {Phaser.Types.Core.GameConfig}
+ */
 const config = {
     type: Phaser.AUTO,
     width: 1366,
